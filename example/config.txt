@@ -1,0 +1,2 @@
+Prefix plugins/TetraESOM/example/
+Plugin TetraESOM inputfile FASTA outputfile Tetra
