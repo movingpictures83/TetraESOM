@@ -1,7 +1,8 @@
+# TetraESOM
 # Language: C++
 # Input: DIR
 # Output: Prefix
-# Tested with: PluMA 1.0, GCC 4.8.4
+# Tested with: PluMA 1.1, GCC 4.8.4
 
 PluMA plugin to compute Tetramer frequencies, which can later work as input to ESOM (Dick, 2009).
 
